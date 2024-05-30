@@ -1,0 +1,3 @@
+[console_scripts]
+lyama_buddy = lyama_buddy.main:main
+
